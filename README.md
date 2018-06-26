@@ -13,4 +13,5 @@ Any more supplements are welcome :smile:.
 
 |Pavlakos G, Zhou X, Derpanis K G, et al. Coarse-to-fine volumetric prediction for single-image 3D human pose[C]//Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on. IEEE, 2017: 1263-1272.|[:link:](https://www.seas.upenn.edu/~pavlakos/projects/volumetric/) |[:link:](https://github.com/geopavlakos/c2f-vol-demo) |
 
+|Kudo Y, Ogaki K, Matsui Y, et al. Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations[J]. arXiv preprint arXiv:1803.08244, 2018.|[:link:](https://nico-opendata.jp/en/casestudy/3dpose_gan/index.html)|[:link:](https://github.com/DwangoMediaVillage/3dpose_gan)|
 
