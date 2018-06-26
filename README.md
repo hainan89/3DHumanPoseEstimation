@@ -11,4 +11,6 @@ Any more supplements are welcome :smile:.
 | Zhou X, Huang Q, Sun X, et al. Towards 3d human pose estimation in the wild: a weakly-supervised approach[C]//IEEE International Conference on Computer Vision. 2017. | None |  [:link:](https://github.com/xingyizhou/pytorch-pose-hg-3d) |
 | Güler R A, Neverova N, Kokkinos I. Densepose: Dense human pose estimation in the wild[J]. arXiv preprint arXiv:1802.00434, 2018. | [:link:](http://densepose.org/) |  [:link:](https://github.com/facebookresearch/DensePose) |
 
+|Pavlakos G, Zhou X, Derpanis K G, et al. Coarse-to-fine volumetric prediction for single-image 3D human pose[C]//Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on. IEEE, 2017: 1263-1272.|[:link:](https://www.seas.upenn.edu/~pavlakos/projects/volumetric/) |[:link:](https://github.com/geopavlakos/c2f-vol-demo) |
+
 
