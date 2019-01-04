@@ -12,4 +12,4 @@ Any more supplements are welcome :smile:.
 | Güler R A, Neverova N, Kokkinos I. Densepose: Dense human pose estimation in the wild[J]. arXiv preprint arXiv:1802.00434, 2018. | [:link:](http://densepose.org/) |  [:link:](https://github.com/facebookresearch/DensePose) |
 |Pavlakos G, Zhou X, Derpanis K G, et al. Coarse-to-fine volumetric prediction for single-image 3D human pose[C]//Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on. IEEE, 2017: 1263-1272.|[:link:](https://www.seas.upenn.edu/~pavlakos/projects/volumetric/) |[:link:](https://github.com/geopavlakos/c2f-vol-demo) |
 |Kudo Y, Ogaki K, Matsui Y, et al. Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations[J]. arXiv preprint arXiv:1803.08244, 2018.|[:link:](https://nico-opendata.jp/en/casestudy/3dpose_gan/index.html)|[:link:](https://github.com/DwangoMediaVillage/3dpose_gan)|
-
+|Yushuke Y, Ryusuke S, Ko A, et al. Skeleton Transformer Networks: 3D Human Pose and Skinned Mesh from Single RGB Image. arXiv preprint 	arXiv:1812.11328.|None|None|
